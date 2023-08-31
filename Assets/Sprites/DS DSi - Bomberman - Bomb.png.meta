@@ -1,0 +1,2645 @@
+fileFormatVersion: 2
+guid: a4ea71d939f1b844c9912c6dcaf90d65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BombRegular2
+  - first:
+      213: 21300002
+    second: DS DSi - Bomberman - Bomb_1
+  - first:
+      213: 21300004
+    second: DS DSi - Bomberman - Bomb_2
+  - first:
+      213: 21300006
+    second: DS DSi - Bomberman - Bomb_3
+  - first:
+      213: 21300008
+    second: DS DSi - Bomberman - Bomb_4
+  - first:
+      213: 21300010
+    second: DS DSi - Bomberman - Bomb_5
+  - first:
+      213: 21300012
+    second: DS DSi - Bomberman - Bomb_6
+  - first:
+      213: 21300014
+    second: DS DSi - Bomberman - Bomb_7
+  - first:
+      213: 21300016
+    second: DS DSi - Bomberman - Bomb_8
+  - first:
+      213: 21300018
+    second: DS DSi - Bomberman - Bomb_9
+  - first:
+      213: 21300020
+    second: DS DSi - Bomberman - Bomb_10
+  - first:
+      213: 21300022
+    second: DS DSi - Bomberman - Bomb_11
+  - first:
+      213: 21300024
+    second: DS DSi - Bomberman - Bomb_12
+  - first:
+      213: 21300026
+    second: DS DSi - Bomberman - Bomb_13
+  - first:
+      213: 21300028
+    second: BRU3
+  - first:
+      213: 21300030
+    second: BRU2
+  - first:
+      213: 21300032
+    second: BRU1
+  - first:
+      213: 21300034
+    second: BRU0
+  - first:
+      213: 21300036
+    second: DS DSi - Bomberman - Bomb_18
+  - first:
+      213: 21300038
+    second: DS DSi - Bomberman - Bomb_19
+  - first:
+      213: 21300040
+    second: DS DSi - Bomberman - Bomb_20
+  - first:
+      213: 21300042
+    second: DS DSi - Bomberman - Bomb_21
+  - first:
+      213: 21300044
+    second: DS DSi - Bomberman - Bomb_22
+  - first:
+      213: 21300046
+    second: DS DSi - Bomberman - Bomb_23
+  - first:
+      213: 21300048
+    second: DS DSi - Bomberman - Bomb_24
+  - first:
+      213: 21300050
+    second: DS DSi - Bomberman - Bomb_25
+  - first:
+      213: 21300052
+    second: DS DSi - Bomberman - Bomb_26
+  - first:
+      213: 21300054
+    second: DS DSi - Bomberman - Bomb_27
+  - first:
+      213: 21300056
+    second: DS DSi - Bomberman - Bomb_28
+  - first:
+      213: 21300058
+    second: DS DSi - Bomberman - Bomb_29
+  - first:
+      213: 21300060
+    second: PenetratingBomb2
+  - first:
+      213: 21300062
+    second: DS DSi - Bomberman - Bomb_31
+  - first:
+      213: 21300064
+    second: BRL3
+  - first:
+      213: 21300066
+    second: BRH3
+  - first:
+      213: 21300068
+    second: BRC3
+  - first:
+      213: 21300070
+    second: DS DSi - Bomberman - Bomb_35
+  - first:
+      213: 21300072
+    second: BRR3
+  - first:
+      213: 21300074
+    second: DS DSi - Bomberman - Bomb_37
+  - first:
+      213: 21300076
+    second: DS DSi - Bomberman - Bomb_38
+  - first:
+      213: 21300078
+    second: BRL2
+  - first:
+      213: 21300080
+    second: BRH2
+  - first:
+      213: 21300082
+    second: BRC2
+  - first:
+      213: 21300084
+    second: DS DSi - Bomberman - Bomb_42
+  - first:
+      213: 21300086
+    second: BRR2
+  - first:
+      213: 21300088
+    second: DS DSi - Bomberman - Bomb_44
+  - first:
+      213: 21300090
+    second: DS DSi - Bomberman - Bomb_45
+  - first:
+      213: 21300092
+    second: BRL1
+  - first:
+      213: 21300094
+    second: BRH1
+  - first:
+      213: 21300096
+    second: BRC1
+  - first:
+      213: 21300098
+    second: DS DSi - Bomberman - Bomb_49
+  - first:
+      213: 21300100
+    second: BRR1
+  - first:
+      213: 21300102
+    second: DS DSi - Bomberman - Bomb_51
+  - first:
+      213: 21300104
+    second: DS DSi - Bomberman - Bomb_52
+  - first:
+      213: 21300106
+    second: BRL0
+  - first:
+      213: 21300108
+    second: BRH0
+  - first:
+      213: 21300110
+    second: BRC0
+  - first:
+      213: 21300112
+    second: DS DSi - Bomberman - Bomb_56
+  - first:
+      213: 21300114
+    second: BRR0
+  - first:
+      213: 21300116
+    second: DS DSi - Bomberman - Bomb_58
+  - first:
+      213: 21300118
+    second: DS DSi - Bomberman - Bomb_59
+  - first:
+      213: 21300120
+    second: BRV3
+  - first:
+      213: 21300122
+    second: DS DSi - Bomberman - Bomb_61
+  - first:
+      213: 21300124
+    second: DS DSi - Bomberman - Bomb_62
+  - first:
+      213: 21300126
+    second: BRV2
+  - first:
+      213: 21300128
+    second: DS DSi - Bomberman - Bomb_64
+  - first:
+      213: 21300130
+    second: DS DSi - Bomberman - Bomb_65
+  - first:
+      213: 21300132
+    second: BRV1
+  - first:
+      213: 21300134
+    second: DS DSi - Bomberman - Bomb_67
+  - first:
+      213: 21300136
+    second: DS DSi - Bomberman - Bomb_68
+  - first:
+      213: 21300138
+    second: BRV0
+  - first:
+      213: 21300140
+    second: DS DSi - Bomberman - Bomb_70
+  - first:
+      213: 21300142
+    second: DS DSi - Bomberman - Bomb_71
+  - first:
+      213: 21300144
+    second: BRD3
+  - first:
+      213: 21300146
+    second: BRD2
+  - first:
+      213: 21300148
+    second: BRD1
+  - first:
+      213: 21300150
+    second: BRD0
+  - first:
+      213: 21300152
+    second: DS DSi - Bomberman - Bomb_76
+  - first:
+      213: 21300154
+    second: DS DSi - Bomberman - Bomb_77
+  - first:
+      213: 21300156
+    second: DS DSi - Bomberman - Bomb_78
+  - first:
+      213: 21300158
+    second: DS DSi - Bomberman - Bomb_79
+  - first:
+      213: 21300160
+    second: DS DSi - Bomberman - Bomb_80
+  - first:
+      213: 21300162
+    second: DS DSi - Bomberman - Bomb_81
+  - first:
+      213: 21300164
+    second: DS DSi - Bomberman - Bomb_82
+  - first:
+      213: 21300166
+    second: DS DSi - Bomberman - Bomb_83
+  - first:
+      213: 21300168
+    second: DS DSi - Bomberman - Bomb_84
+  - first:
+      213: 21300170
+    second: DS DSi - Bomberman - Bomb_85
+  - first:
+      213: 21300172
+    second: DS DSi - Bomberman - Bomb_86
+  - first:
+      213: 21300174
+    second: DS DSi - Bomberman - Bomb_87
+  - first:
+      213: 21300176
+    second: DS DSi - Bomberman - Bomb_88
+  - first:
+      213: 21300178
+    second: BPU3
+  - first:
+      213: 21300180
+    second: BPU2
+  - first:
+      213: 21300182
+    second: BPU1
+  - first:
+      213: 21300184
+    second: BPU0
+  - first:
+      213: 21300186
+    second: DS DSi - Bomberman - Bomb_93
+  - first:
+      213: 21300188
+    second: DS DSi - Bomberman - Bomb_94
+  - first:
+      213: 21300190
+    second: DS DSi - Bomberman - Bomb_95
+  - first:
+      213: 21300192
+    second: DS DSi - Bomberman - Bomb_96
+  - first:
+      213: 21300194
+    second: DS DSi - Bomberman - Bomb_97
+  - first:
+      213: 21300196
+    second: DS DSi - Bomberman - Bomb_98
+  - first:
+      213: 21300198
+    second: BPL3
+  - first:
+      213: 21300200
+    second: BPH3
+  - first:
+      213: 21300202
+    second: BPC3
+  - first:
+      213: 21300204
+    second: DS DSi - Bomberman - Bomb_102
+  - first:
+      213: 21300206
+    second: BPR3
+  - first:
+      213: 21300208
+    second: BPL2
+  - first:
+      213: 21300210
+    second: BPH2
+  - first:
+      213: 21300212
+    second: BPC2
+  - first:
+      213: 21300214
+    second: DS DSi - Bomberman - Bomb_107
+  - first:
+      213: 21300216
+    second: BPR2
+  - first:
+      213: 21300218
+    second: BPL1
+  - first:
+      213: 21300220
+    second: BPH1
+  - first:
+      213: 21300222
+    second: BPC1
+  - first:
+      213: 21300224
+    second: DS DSi - Bomberman - Bomb_112
+  - first:
+      213: 21300226
+    second: BPR1
+  - first:
+      213: 21300228
+    second: BPL0
+  - first:
+      213: 21300230
+    second: BPH0
+  - first:
+      213: 21300232
+    second: BPC0
+  - first:
+      213: 21300234
+    second: DS DSi - Bomberman - Bomb_117
+  - first:
+      213: 21300236
+    second: BPR0
+  - first:
+      213: 21300238
+    second: DS DSi - Bomberman - Bomb_119
+  - first:
+      213: 21300240
+    second: DS DSi - Bomberman - Bomb_120
+  - first:
+      213: 21300242
+    second: DS DSi - Bomberman - Bomb_121
+  - first:
+      213: 21300244
+    second: DS DSi - Bomberman - Bomb_122
+  - first:
+      213: 21300246
+    second: DS DSi - Bomberman - Bomb_123
+  - first:
+      213: 21300248
+    second: DS DSi - Bomberman - Bomb_124
+  - first:
+      213: 21300250
+    second: DS DSi - Bomberman - Bomb_125
+  - first:
+      213: 21300252
+    second: DS DSi - Bomberman - Bomb_126
+  - first:
+      213: 21300254
+    second: DS DSi - Bomberman - Bomb_127
+  - first:
+      213: 21300256
+    second: DS DSi - Bomberman - Bomb_128
+  - first:
+      213: 21300258
+    second: DS DSi - Bomberman - Bomb_129
+  - first:
+      213: 21300260
+    second: DS DSi - Bomberman - Bomb_130
+  - first:
+      213: 21300262
+    second: DS DSi - Bomberman - Bomb_131
+  - first:
+      213: 21300264
+    second: DS DSi - Bomberman - Bomb_132
+  - first:
+      213: 21300266
+    second: BPV3
+  - first:
+      213: 21300268
+    second: BPV2
+  - first:
+      213: 21300270
+    second: BPV1
+  - first:
+      213: 21300272
+    second: BPV0
+  - first:
+      213: 21300274
+    second: DS DSi - Bomberman - Bomb_137
+  - first:
+      213: 21300276
+    second: DS DSi - Bomberman - Bomb_138
+  - first:
+      213: 21300278
+    second: DS DSi - Bomberman - Bomb_139
+  - first:
+      213: 21300280
+    second: DS DSi - Bomberman - Bomb_140
+  - first:
+      213: 21300282
+    second: BPD3
+  - first:
+      213: 21300284
+    second: BPD2
+  - first:
+      213: 21300286
+    second: BPD1
+  - first:
+      213: 21300288
+    second: BPD0
+  - first:
+      213: 21300290
+    second: DS DSi - Bomberman - Bomb_145
+  - first:
+      213: 21300292
+    second: DS DSi - Bomberman - Bomb_146
+  - first:
+      213: 21300294
+    second: DS DSi - Bomberman - Bomb_147
+  - first:
+      213: 21300296
+    second: DS DSi - Bomberman - Bomb_148
+  - first:
+      213: 21300298
+    second: DS DSi - Bomberman - Bomb_149
+  - first:
+      213: 21300300
+    second: DS DSi - Bomberman - Bomb_150
+  - first:
+      213: 21300302
+    second: DS DSi - Bomberman - Bomb_151
+  - first:
+      213: 21300304
+    second: DS DSi - Bomberman - Bomb_152
+  - first:
+      213: 21300306
+    second: DS DSi - Bomberman - Bomb_153
+  - first:
+      213: 21300308
+    second: DS DSi - Bomberman - Bomb_154
+  - first:
+      213: 21300310
+    second: DS DSi - Bomberman - Bomb_155
+  - first:
+      213: 21300312
+    second: DS DSi - Bomberman - Bomb_156
+  - first:
+      213: 21300314
+    second: DS DSi - Bomberman - Bomb_157
+  - first:
+      213: 21300316
+    second: DS DSi - Bomberman - Bomb_158
+  - first:
+      213: 21300318
+    second: BombRegular1
+  - first:
+      213: 21300320
+    second: BombRegular0
+  - first:
+      213: 21300322
+    second: PenetratingBomb1
+  - first:
+      213: 21300324
+    second: PenetratingBomb0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BombRegular2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d13277b85c72943ab97fa2e1b6bfb9
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRU3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d2287d62017c4180adb2b69538ab3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRU2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 185
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce090d591b127b446b9c94addb4b8281
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRU1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d74cbe0642a74093fe80056166f6a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRU0
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5bcd200aaf0874ba1018a566ac56f4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenetratingBomb2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4363a8ad858dcd643bfaeff3cdc5b1f8
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRL3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 156
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7bf72e117159b4e863d746a6b1b1e4
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRH3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 156
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e73ea17824c1094eab8f3e58e9e60da
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRC3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef5b37e43aeb848b9ad0b5783a5438
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRR3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 157
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee07fdc3a155d4d94f7653abb592d1
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRL2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 153
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb07f3f2c30de74db23ed4a10b5732f
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRH2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 153
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad455f2d1e5d4428cb5243d8021234
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRC2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85a6e30ef4fb24ebfe844947f34fe5
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRR2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 153
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c7ddcd4c01c247912bda486fd0144
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRL1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59037ddb2077fd24ea9501538b566a59
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRH1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85adeedfeb6dd0545b400e951d934ba9
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRC1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a268b1fc4cc8143a50587a1e019713
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRR1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7b868cd0572241b0850d3d18d96fb
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRL0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dba74628e6573449ff6d3c8baed17d
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRH0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452a56552303468418742320c19403c9
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRC0
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369cb2a79f26924285d33d849c4989a
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRR0
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d364d597ab4d4abb858668e67dea2
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRV3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 136
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e4d9da7534ff74e8ac0a488ad59a55
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRV2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 134
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e354b15a3e95e64daece6628dae7fc4
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRV1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccd2b77f299ef64fbe1cbc93b7f197b
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRV0
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565765f1da93ad24abf3e59854698183
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRD3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 121
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd27f09da1dd893468b64fdef4259db5
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRD2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 118
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9758f540aa136894d993c474d57aacdd
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRD1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd7f4eacb43d747b4e13207c5f245e
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRD0
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64575dad66c5eab48babb419125bfea5
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPU3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3c8da2e02bd04caff8c01670fcfcf
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPU2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 72
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214885aa8e57f241a2df3f124d0e8a8
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPU1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a8bc11d7bac4840b185ce8174d44f0
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPU0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a32fb80fbc2b54185c4900766cb4ad
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPL3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 42
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e08f22ecf32bb4c92efc2a608743e7
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPH3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 42
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1bad1540ad81047ab183d5b0d5324e
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPC3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13bbb97f4bc5c478132c50e4ea28ba
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPR3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 43
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff522131538d971449a06f35bd09b7ad
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPL2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d4ae340fcf9144cbf9b1d86445f811
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPH2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 40
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b1d97f45b2e04ba5b2876d6e9b985
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPC2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf677dc2c0c0904c83614b2b66b9b30
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPR2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285952f22a6a3d48b46c400f06774c7
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPL1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d65630fcbe6d04dbb19161dade45b9
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPH1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334dfc148e0e13542ac72275147f3aa9
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPC1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f146dcf4296224fa0dcd7ef728bbf0
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPR1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0fd4f86fe6654089d6cc678ea2cd0
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPL0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3e90f9263385478baf37024493c57
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPH0
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87537a26232dcf94dbca9e00f1d2faf1
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPC0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aea36cc5b1f894d891d43b4d9a640e
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPR0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2508bec8db79c47b84b54c138d5242
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_119
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 34
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7311374519314b8186aef7e85016f
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_120
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4082bc9f4008349b82e3f28dce597b
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_121
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef9f37b5f9b4f94abf6c34b5655a774
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_122
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4978079e6ac2f4f9abd903e3cbd7ff
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_123
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569201e9f25a0794e8e216a2cbe647cb
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_124
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52cd840bcc4064a863109dee6266e4
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_125
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e99feaaa3f144a842ce69f97854a9
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_126
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba523cc6040b10c47becea61516e1cbb
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_127
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7fcf6b42663ef439a882c03866d673
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_128
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28daf005ca96cb145bec377d748e7f73
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_129
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8fbb19c72bf54e9efcb50f5859595
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_130
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde064a9264c23549983dcfbbca3bd38
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_131
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e8d7a8ef919c47be3c759aa2bc3f4
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPV3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 22
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2f481184716c442b7da4f78a58e0b0
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPV2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 21
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d025c71ed75649adc20d6a9a6ffc8
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPV1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a99e5ef8bc17946a853cb6ed842fd3
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPV0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6658e193e04e642ac5f99f297008f4
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_137
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e23eafa87e67054a9a073e6ba1af083
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_138
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 17
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172603c6899aa8439ad0b53ced3ad1c
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_139
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 20
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85827ac6ee4c7f74abb51ddb881b8244
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee47ae5ddc457d4ebdfaa92e456fd38
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPD3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c8866feaf7094d8b8e04d6340be52
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPD2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 5
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a130564d533ced043a9948f472a2d605
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPD1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3845be50e394e438d0c1bb399cc5fe
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BPD0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761e83742c128f24db5bd6a6c0cd06d5
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_145
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb071c35c7d37445a1787bd13686545
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_146
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ef61e5cab99a4bbf2e6f2e29a9b19
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_147
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d3a0a00ad512a45a7a715aba4fb010
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_148
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07b8162524b20469ea6150acaa01a7
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db2e325f6186f4eb9f1df18c3ac94e
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_150
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdcd4dcaaa84c94d9e1b232e0b67ba5
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_151
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595648a2280304b449bf6735011b4dae
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_152
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9170a97e74bfe94a940c04c2b559e49
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_153
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0293b08a6d2a3c24b8908818a0413712
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_154
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 4
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3718b3e828068644399b77f9b9d3fc48
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_155
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5766564f7c0100046b5b91e0a88d8c66
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_156
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7f017ea02a6ae4f81f19ece73fe529
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_157
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88684e616f7805a4db7f5f3449dc7069
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Bomb_158
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025a868c89b23d4991d3cdb8a38126e
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombRegular1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba96edfae6ba8394d94650c1a677f189
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombRegular0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e83d766f884e9408fa84ed17043473
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenetratingBomb1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c6c707043ab364b81f05856ba5ceeb
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenetratingBomb0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f6164cff72144aa9d3aa7ec1552f8
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c76c25fa742c9a4189a278f95cb2882
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BPD3: 21300282
+      DS DSi - Bomberman - Bomb_130: 21300260
+      BPR1: 21300226
+      BPV2: 21300268
+      BRL0: 21300106
+      DS DSi - Bomberman - Bomb_138: 21300276
+      DS DSi - Bomberman - Bomb_156: 21300312
+      BRR2: 21300086
+      DS DSi - Bomberman - Bomb_149: 21300298
+      BPC0: 21300232
+      BPH1: 21300220
+      PenetratingBomb0: 21300324
+      BRH2: 21300080
+      DS DSi - Bomberman - Bomb_140: 21300280
+      BRR0: 21300114
+      BPL0: 21300228
+      PenetratingBomb2: 21300060
+      BPD1: 21300286
+      BPU3: 21300178
+      DS DSi - Bomberman - Bomb_120: 21300240
+      BRH1: 21300094
+      BombRegular1: 21300318
+      DS DSi - Bomberman - Bomb_139: 21300278
+      BRU2: 21300030
+      BRC3: 21300068
+      BPH2: 21300210
+      DS DSi - Bomberman - Bomb_123: 21300246
+      BRL2: 21300078
+      BRV0: 21300138
+      BRD0: 21300150
+      BPR3: 21300206
+      BRR3: 21300072
+      DS DSi - Bomberman - Bomb_152: 21300304
+      DS DSi - Bomberman - Bomb_155: 21300310
+      BRC2: 21300082
+      BPL3: 21300198
+      BPV0: 21300272
+      DS DSi - Bomberman - Bomb_148: 21300296
+      BRD1: 21300148
+      BPH3: 21300200
+      BRL1: 21300092
+      BombRegular0: 21300320
+      DS DSi - Bomberman - Bomb_137: 21300274
+      BPU0: 21300184
+      BPR0: 21300236
+      BPV3: 21300266
+      DS DSi - Bomberman - Bomb_150: 21300300
+      DS DSi - Bomberman - Bomb_129: 21300258
+      DS DSi - Bomberman - Bomb_154: 21300308
+      BPU1: 21300182
+      BRC0: 21300110
+      BRH0: 21300108
+      BRU0: 21300034
+      DS DSi - Bomberman - Bomb_125: 21300250
+      DS DSi - Bomberman - Bomb_121: 21300242
+      DS DSi - Bomberman - Bomb_146: 21300292
+      DS DSi - Bomberman - Bomb_127: 21300254
+      BombRegular2: 21300000
+      BPU2: 21300180
+      BRU3: 21300028
+      DS DSi - Bomberman - Bomb_124: 21300248
+      DS DSi - Bomberman - Bomb_131: 21300262
+      DS DSi - Bomberman - Bomb_119: 21300238
+      PenetratingBomb1: 21300322
+      DS DSi - Bomberman - Bomb_151: 21300302
+      BPR2: 21300216
+      DS DSi - Bomberman - Bomb_153: 21300306
+      BPD0: 21300288
+      BRV1: 21300132
+      BPL1: 21300218
+      DS DSi - Bomberman - Bomb_158: 21300316
+      BRL3: 21300064
+      BPH0: 21300230
+      DS DSi - Bomberman - Bomb_126: 21300252
+      BPC2: 21300212
+      BRC1: 21300096
+      DS DSi - Bomberman - Bomb_128: 21300256
+      DS DSi - Bomberman - Bomb_157: 21300314
+      DS DSi - Bomberman - Bomb_122: 21300244
+      DS DSi - Bomberman - Bomb_145: 21300290
+      BRH3: 21300066
+      BRV3: 21300120
+      BRD2: 21300146
+      BRR1: 21300100
+      BPL2: 21300208
+      BRU1: 21300032
+      BRV2: 21300126
+      BPC1: 21300222
+      BRD3: 21300144
+      DS DSi - Bomberman - Bomb_147: 21300294
+      BPV1: 21300270
+      BPC3: 21300202
+      BPD2: 21300284
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

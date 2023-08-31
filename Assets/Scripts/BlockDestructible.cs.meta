@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 348283320efae5745ace9a688b89bd10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FireUp: {fileID: 7076298782255931624, guid: 8d881967063a74d44add85064afd9cdf,
+      type: 3}
+  - FireDown: {fileID: 6677012233517233631, guid: fe40d6da658291743b27587e694e3518,
+      type: 3}
+  - BombUp: {fileID: 5487034507120090062, guid: 151d7c6438df30649a801adfbc5cf24f,
+      type: 3}
+  - BombDown: {fileID: 7335781543161721197, guid: be5395a54c583814ba384851682123da,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

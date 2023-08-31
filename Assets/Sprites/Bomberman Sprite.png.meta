@@ -1,0 +1,2285 @@
+fileFormatVersion: 2
+guid: a665aea6387d80643901a1723e7deb5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bomberman Sprite_0
+  - first:
+      213: 21300002
+    second: White_WalkUp0
+  - first:
+      213: 21300004
+    second: White_WalkUp1
+  - first:
+      213: 21300006
+    second: White_WalkUp2
+  - first:
+      213: 21300008
+    second: Black_WalkUp0
+  - first:
+      213: 21300010
+    second: Black_WalkUp1
+  - first:
+      213: 21300012
+    second: Black_WalkUp2
+  - first:
+      213: 21300014
+    second: White_WalkLeft0
+  - first:
+      213: 21300016
+    second: White_WalkLeft1
+  - first:
+      213: 21300018
+    second: White_WalkLeft2
+  - first:
+      213: 21300020
+    second: White_WalkDown0
+  - first:
+      213: 21300022
+    second: White_WalkDown1
+  - first:
+      213: 21300024
+    second: White_WalkDown2
+  - first:
+      213: 21300026
+    second: White_WalkRight0
+  - first:
+      213: 21300028
+    second: White_WalkRight1
+  - first:
+      213: 21300030
+    second: Black_WalkLeft0
+  - first:
+      213: 21300032
+    second: Black_WalkLeft2
+  - first:
+      213: 21300034
+    second: Black_WalkDown0
+  - first:
+      213: 21300036
+    second: Black_WalkDown1
+  - first:
+      213: 21300038
+    second: Black_WalkDown2
+  - first:
+      213: 21300040
+    second: Black_WalkRight0
+  - first:
+      213: 21300042
+    second: Black_WalkRight1
+  - first:
+      213: 21300044
+    second: White_Death0
+  - first:
+      213: 21300046
+    second: White_Death1
+  - first:
+      213: 21300048
+    second: White_Death2
+  - first:
+      213: 21300050
+    second: White_Death3
+  - first:
+      213: 21300052
+    second: White_Death4
+  - first:
+      213: 21300054
+    second: White_Death5
+  - first:
+      213: 21300056
+    second: Black_Death0
+  - first:
+      213: 21300058
+    second: Black_Death1
+  - first:
+      213: 21300060
+    second: Black_Death2
+  - first:
+      213: 21300062
+    second: Black_Death3
+  - first:
+      213: 21300064
+    second: Black_Death4
+  - first:
+      213: 21300066
+    second: Black_Death5
+  - first:
+      213: 21300068
+    second: White_PunchDown
+  - first:
+      213: 21300070
+    second: White_PunchUp
+  - first:
+      213: 21300072
+    second: White_PunchSide
+  - first:
+      213: 21300074
+    second: Black_PunchDown
+  - first:
+      213: 21300076
+    second: Black_PunchUp
+  - first:
+      213: 21300078
+    second: Black_PunchSide
+  - first:
+      213: 21300080
+    second: Red_WalkLeft0
+  - first:
+      213: 21300082
+    second: Red_WalkUp0
+  - first:
+      213: 21300084
+    second: Red_WalkUp1
+  - first:
+      213: 21300086
+    second: Red_WalkUp2
+  - first:
+      213: 21300088
+    second: Blue_WalkUp0
+  - first:
+      213: 21300090
+    second: Blue_WalkUp1
+  - first:
+      213: 21300092
+    second: Blue_WalkUp2
+  - first:
+      213: 21300094
+    second: Red_WalkLeft1
+  - first:
+      213: 21300096
+    second: Red_WalkLeft2
+  - first:
+      213: 21300098
+    second: Red_WalkDown0
+  - first:
+      213: 21300100
+    second: Red_WalkDown1
+  - first:
+      213: 21300102
+    second: Red_WalkDown2
+  - first:
+      213: 21300104
+    second: Red_WalkRight0
+  - first:
+      213: 21300106
+    second: Red_WalkRight1
+  - first:
+      213: 21300108
+    second: Blue_WalkLeft0
+  - first:
+      213: 21300110
+    second: Blue_WalkLeft1
+  - first:
+      213: 21300112
+    second: Blue_WalkLeft2
+  - first:
+      213: 21300114
+    second: Blue_WalkDown0
+  - first:
+      213: 21300116
+    second: Blue_WalkDown1
+  - first:
+      213: 21300118
+    second: Blue_WalkDown2
+  - first:
+      213: 21300120
+    second: Blue_WalkRight0
+  - first:
+      213: 21300122
+    second: Blue_WalkRight1
+  - first:
+      213: 21300124
+    second: Red_Death0
+  - first:
+      213: 21300126
+    second: Red_Death1
+  - first:
+      213: 21300128
+    second: Red_Death2
+  - first:
+      213: 21300130
+    second: Red_Death3
+  - first:
+      213: 21300132
+    second: Red_Death4
+  - first:
+      213: 21300134
+    second: Red_Death5
+  - first:
+      213: 21300136
+    second: Blue_Death0
+  - first:
+      213: 21300138
+    second: Blue_Death1
+  - first:
+      213: 21300140
+    second: Blue_Death2
+  - first:
+      213: 21300142
+    second: Blue_Death3
+  - first:
+      213: 21300144
+    second: Blue_Death4
+  - first:
+      213: 21300146
+    second: Blue_Death5
+  - first:
+      213: 21300148
+    second: Red_PunchDown
+  - first:
+      213: 21300150
+    second: Red_PunchUp
+  - first:
+      213: 21300152
+    second: Red_PunchSide
+  - first:
+      213: 21300154
+    second: Blue_PunchDown
+  - first:
+      213: 21300156
+    second: Blue_PunchUp
+  - first:
+      213: 21300158
+    second: Blue_PunchSide
+  - first:
+      213: 21300160
+    second: White_WalkRight2
+  - first:
+      213: 21300162
+    second: Black_WalkLeft1
+  - first:
+      213: 21300164
+    second: Black_WalkRight2
+  - first:
+      213: 21300166
+    second: Red_WalkRight2
+  - first:
+      213: 21300168
+    second: Blue_WalkRight2
+  - first:
+      213: 21300170
+    second: Bomberman Sprite_2
+  - first:
+      213: 21300172
+    second: Bomberman Sprite_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomberman Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 310
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80173cbb9936e4fb005ab12630bb78
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkUp0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 218
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795040484899a464382df318ecd0261d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkUp1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 218
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf27b3ecc38d1c4bb6e95c3e6e8bfc8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkUp2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 218
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5937e61365f51047868f6becb92e194
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkUp0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 218
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca5f59426f3224cad6da6113ce01a2
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkUp1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 218
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bec7f5585333a1469bc729832b386a7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkUp2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 218
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5185ffd4ae132a48acf7eb94c6f528a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkLeft0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f096d57f93f0514e83dd5b179bd5d84
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkLeft1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 194
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7535247392a014cbc83ff8fcaf0cd3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkLeft2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072f95718f90c4e44883a23f3cc76ec6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkDown0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c6b70ce68de5043ba33793d97e175d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkDown1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee718598ad76a4b83cf3bc1620fec0
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkDown2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 192
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dcf57f133c6c849a4724b4cd87b139
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkRight0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef6b0ded5f59d47ae8da285bf253f0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkRight1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25399e30d0135b469779d9814318a2f
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkLeft0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 194
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a636c44a8d47c4da5e22250266c861
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkLeft2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 193
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fd4297009bb1f4ea200a71498bf61f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkDown0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb868cca5eda9c46a03ce8151ffbf89
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkDown1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44270a63f0ce0554296e0653e6ecd245
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkDown2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170be09166c8d1f40b8143fe5771dc6e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkRight0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e10411083e0245b4417a99c180855
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkRight1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d5e332c7ad954ba57fe7d9980fe46
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Death0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 164
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731680b5578a0524793677b46144100b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Death1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 163
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d9d7525fd8f747b2b8f2dfd740b6e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Death2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400a94a26f11b34792d3d32f5bdebf8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Death3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 163
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21fac7f4a732c4c88293c4e9d52bca
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Death4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5319307c9838264c812624ebf20547c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Death5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 163
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aea4f718ed99174594c568d521ea460
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Death0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 164
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff86da5fbe8fc143ab76e0790e74b74
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Death1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 163
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e807aaca10fcc4aae6a3d7680dc88d
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Death2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 163
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7a6c1ca7c59b43969a299f03fca6c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Death3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 163
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c303158d12cd0704086cec95fdcbaaca
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Death4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 163
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aca265f2b915349b731258d5d49856
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Death5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 163
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4395d5dbedf55094cbf5ab42468a7355
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_PunchDown
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 135
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a91ba3cf727044974b0e1e9581b66
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_PunchUp
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 134
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85ef28df8f2baf44b29b5b5f6a7c956
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_PunchSide
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 136
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b583b709f8ba9f4e894ddb5194706c8
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PunchDown
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 135
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40e404c3d1bad48b297688eec198fa
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PunchUp
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 134
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcb9cfa4f4096149b8425ee5b811d57
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PunchSide
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 136
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123fb8e207880948b83e6e54df4b9c8
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkLeft0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 81
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3d12d92c613a4782ebc698da15447
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkUp0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 105
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c56d9e683b147c48901abf5881bff89
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkUp1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 105
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20498c1ad8704ff42a84dd874d255183
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkUp2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 105
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e4543f492ada646a8cc4470f01da04
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkUp0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 105
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef922f2eaae6aa499e3c4e1efd29f82
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkUp1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 105
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5914a41cb3dec0d46ba21d7d591f109c
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkUp2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd50c34790e12488f8753548217d85
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkLeft1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d9b34d903f774fa992a4774fc85bc
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkLeft2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23064d53563aa144a896ae13c047d39e
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkDown0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2214c1b37832c394589873448dd8c5e8
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkDown1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f7882e62cb5e439b7ccc7e6c3cd8a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkDown2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 79
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5293c962f54c04a81b0f2190109e22
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkRight0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 78
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601e9ed5b0977940b577ed90c0e9dc3
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkRight1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 78
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c4eb16945c044d8e89270079968c2
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkLeft0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 81
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a352eb7f4ea44fbedb24c55031a57
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkLeft1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 81
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db2e62f5db5ed4abe5da60aa7da3fa
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkLeft2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e68bc7822ccd142bbe74c6a173a8e1
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkDown0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 79
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ed5e95b2517e4b8a48d501d7e537d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkDown1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4931d90038e290e41992c99ac6c3a78d
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkDown2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c9faee6addcf4598b8443d18360ca
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkRight0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 78
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef80933d7d85d3439eb28ac83e49ff8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkRight1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 78
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7636de93df18748a701f34d88e1549
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d363e56bc58be47b7d4f16f2b1172d
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb49a0ce5c589c4594f7c8c0c730768
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c10716522b8344a03756440d32786
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359cc6383f1864f4c979bc58f8df459a
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9229567c06b87014382e5b93de075d4e
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Death5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd038858d98aff74eae04dd48ca56b6e
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 51
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17be60776611f429a3d0276e7c1bc2
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed611a9cb5a5145438e541abbd313a00
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fb99dd5f54914cb624ea7e6f6a473
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28805b5db9eeea94e964f09aad0fb11b
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ded2a3121be43f45b035126abe9b02b
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Death5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 50
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff10194245182341b63035b42292a76
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_PunchDown
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 22
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254e9f3de2f97644ac2b9c7b798d817
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_PunchUp
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 21
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523670cb64d54874abe2ed1b478b6666
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_PunchSide
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff2bee082b303e4bae0fb14e477d3a6
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_PunchDown
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 22
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcec4311f7395e499efe4d8c6dc0823
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_PunchUp
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 21
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e0f7ea94301b9448c97a79df26a883
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_PunchSide
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 23
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eb2c058897383469d153e0b95e807b
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_WalkRight2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f025a851520f644c922d16dd555bc44
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkLeft1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 194
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b9096db0f4e76418c0cfed53eef8a6
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_WalkRight2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bb046b105a11a4db6548acd8b9562c
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_WalkRight2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103908c7eaef2344b85a0e8e802517d3
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_WalkRight2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 78
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fac40fc2d2bb041bc5b978eee3af6b
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomberman Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 227
+        width: 13
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80500d0a4a5ecdd40a3ed6ad0b38b0ba
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomberman Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 225
+        width: 7
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a452341d981891408c20682ae591342
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c4361dc91232e6341ba2555b10499bd9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue_Death5: 21300146
+      Blue_PunchSide: 21300158
+      Black_WalkUp1: 21300010
+      White_WalkRight0: 21300026
+      Red_PunchUp: 21300150
+      Red_WalkUp0: 21300082
+      Black_PunchSide: 21300078
+      Red_WalkDown0: 21300098
+      Black_Death2: 21300060
+      Black_Death4: 21300064
+      White_Death0: 21300044
+      Blue_WalkLeft2: 21300112
+      Bomberman Sprite_0: 21300000
+      White_PunchSide: 21300072
+      Blue_Death4: 21300144
+      White_PunchDown: 21300068
+      Red_WalkLeft1: 21300094
+      Red_PunchDown: 21300148
+      Red_WalkUp2: 21300086
+      White_WalkLeft2: 21300018
+      Black_PunchDown: 21300074
+      Blue_WalkUp1: 21300090
+      Red_WalkLeft0: 21300080
+      Red_WalkDown2: 21300102
+      Red_WalkRight0: 21300104
+      Blue_WalkUp0: 21300088
+      White_WalkDown1: 21300022
+      White_WalkDown0: 21300020
+      Black_WalkLeft0: 21300030
+      Black_WalkDown2: 21300038
+      Red_WalkLeft2: 21300096
+      Red_Death5: 21300134
+      White_PunchUp: 21300070
+      Black_PunchUp: 21300076
+      Blue_WalkUp2: 21300092
+      White_Death2: 21300048
+      White_WalkRight2: 21300160
+      Blue_Death0: 21300136
+      White_WalkLeft0: 21300014
+      Red_WalkUp1: 21300084
+      Blue_WalkRight0: 21300120
+      Blue_Death3: 21300142
+      Black_WalkRight0: 21300040
+      Blue_PunchDown: 21300154
+      Red_PunchSide: 21300152
+      White_Death4: 21300052
+      Black_WalkUp2: 21300012
+      Red_WalkDown1: 21300100
+      Red_Death3: 21300130
+      Blue_Death1: 21300138
+      Black_WalkLeft2: 21300032
+      Blue_PunchUp: 21300156
+      White_WalkLeft1: 21300016
+      Blue_WalkRight2: 21300168
+      Black_WalkLeft1: 21300162
+      Blue_WalkDown2: 21300118
+      White_Death5: 21300054
+      Red_WalkRight2: 21300166
+      Black_WalkRight2: 21300164
+      Black_WalkUp0: 21300008
+      Blue_WalkDown0: 21300114
+      White_WalkUp2: 21300006
+      Black_WalkDown1: 21300036
+      White_WalkRight1: 21300028
+      Black_WalkDown0: 21300034
+      Bomberman Sprite_2: 21300170
+      Blue_WalkDown1: 21300116
+      White_WalkDown2: 21300024
+      Red_WalkRight1: 21300106
+      Black_Death1: 21300058
+      Black_Death5: 21300066
+      White_WalkUp1: 21300004
+      Blue_WalkRight1: 21300122
+      White_Death1: 21300046
+      Red_Death1: 21300126
+      Red_Death2: 21300128
+      Red_Death4: 21300132
+      Black_Death3: 21300062
+      Black_Death0: 21300056
+      Blue_WalkLeft0: 21300108
+      Bomberman Sprite_3: 21300172
+      White_WalkUp0: 21300002
+      White_Death3: 21300050
+      Blue_Death2: 21300140
+      Blue_WalkLeft1: 21300110
+      Red_Death0: 21300124
+      Black_WalkRight1: 21300042
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

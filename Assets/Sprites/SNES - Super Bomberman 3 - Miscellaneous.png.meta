@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: 643b0ebb4aaa2954da6ac130e4aa6217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BombRegular0
+  - first:
+      213: 21300002
+    second: BombRegular1
+  - first:
+      213: 21300004
+    second: BombRegular2
+  - first:
+      213: 21300006
+    second: BombPenetrating0
+  - first:
+      213: 21300008
+    second: BombPenetrating1
+  - first:
+      213: 21300010
+    second: BombPenetrating2
+  - first:
+      213: 21300012
+    second: BombWater0
+  - first:
+      213: 21300014
+    second: BombWater1
+  - first:
+      213: 21300016
+    second: BombWater2
+  - first:
+      213: 21300018
+    second: ExplosionBase0
+  - first:
+      213: 21300020
+    second: ExplosionBase1
+  - first:
+      213: 21300022
+    second: ExplosionBase2
+  - first:
+      213: 21300024
+    second: ExplosionBase3
+  - first:
+      213: 21300026
+    second: ExplosionBase4
+  - first:
+      213: 21300028
+    second: ExplosionBase5
+  - first:
+      213: 21300030
+    second: ExplosionBase6
+  - first:
+      213: 21300032
+    second: PowerupSpeedUp
+  - first:
+      213: 21300034
+    second: PowerupSpeedDown
+  - first:
+      213: 21300036
+    second: PowerupFire
+  - first:
+      213: 21300038
+    second: PowerupBomb
+  - first:
+      213: 21300040
+    second: PowerupKick
+  - first:
+      213: 21300042
+    second: PowerupWaterBomb
+  - first:
+      213: 21300044
+    second: PowerupSpikeBomb
+  - first:
+      213: 21300046
+    second: ExplosionLeft0
+  - first:
+      213: 21300048
+    second: ExplosionCenter0
+  - first:
+      213: 21300050
+    second: ExplosionHorizontal0
+  - first:
+      213: 21300052
+    second: ExplosionRight0
+  - first:
+      213: 21300054
+    second: ExplosionVertical0
+  - first:
+      213: 21300056
+    second: ExplosionDown0
+  - first:
+      213: 21300058
+    second: ExplosionUp0
+  - first:
+      213: 21300060
+    second: ExplosionLeft1
+  - first:
+      213: 21300062
+    second: ExplosionHorizontal1
+  - first:
+      213: 21300064
+    second: ExplosionCenter1
+  - first:
+      213: 21300066
+    second: ExplosionVertical1
+  - first:
+      213: 21300068
+    second: ExplosionDown1
+  - first:
+      213: 21300070
+    second: SNES - Super Bomberman 3 - Miscellaneous_0
+  - first:
+      213: 21300072
+    second: ExplosionUp
+  - first:
+      213: 21300074
+    second: ExplosionRight1
+  - first:
+      213: 21300076
+    second: ExplosionLeft2
+  - first:
+      213: 21300078
+    second: ExplosionHorizontal2
+  - first:
+      213: 21300080
+    second: ExplosionCenter2
+  - first:
+      213: 21300082
+    second: ExplosionVertical2
+  - first:
+      213: 21300084
+    second: ExplosionDown2
+  - first:
+      213: 21300086
+    second: ExplosionUp2
+  - first:
+      213: 21300088
+    second: ExplosionRight2
+  - first:
+      213: 21300090
+    second: ExplosionCenter3
+  - first:
+      213: 21300092
+    second: ExplosionLeft3
+  - first:
+      213: 21300094
+    second: ExplosionHorizontal3
+  - first:
+      213: 21300096
+    second: ExplosionVertical3
+  - first:
+      213: 21300098
+    second: ExplosionDown3
+  - first:
+      213: 21300100
+    second: ExplosionUp3
+  - first:
+      213: 21300102
+    second: ExplosionRight3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BombRegular0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c5eb6cd842074ea7eef0b60c0316c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombRegular1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122776ea07af4d4ab1d66ac8cf4c76e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombRegular2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 194
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8deb42d6b5e3f4b97ea76db72640cd
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPenetrating0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59d65f007fa9b46abec1c2db5d1813
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPenetrating1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 194
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a71a67463058e4ba4dfc80928fb3db
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombPenetrating2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 194
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523bad663dea754787e5bc3ff1e9b23
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombWater0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 194
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0551c3eb8459ac48872a3cf5c824ffc
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombWater1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 194
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4466ee5751b1fa4191df82d938e8be6
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombWater2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 194
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad3b98ef2c3b8a4e99e659d51f147a3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionBase0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 147
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18377f86644c5664f88b65dd533ad2d0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionBase1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 146
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cefbbffb0df784698aea4151e6c7b6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionBase2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 147
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a963b4674011c4298acbfd09b1f92b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionBase3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 145
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3700533a549b9b458d3b4e997915c33
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionBase4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 147
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0d415f81190641b6a68e99a61f5f2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionBase5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 147
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b49e3b1e6978047beebf2ab4f80ab2
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionBase6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 147
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2975c6dbb4bc4a97f4a2fccec9649
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupSpeedUp
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84dc5e17b929348a92eaa8af1b4357
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupSpeedDown
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8027ebeb92ba37941ac5d22ed5968fe5
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupFire
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e68b1427ba507a4d861286458f8d453
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupBomb
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea1ac6e69dc1204cafafd6d6f93b085
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupKick
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456f3dd4a08be64fa805c7de1c35d2a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupWaterBomb
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec4198b65189e3449689a9f015bdd07
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupSpikeBomb
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923edbe875d95bc45a2d93fa7ce8cd84
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionLeft0
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 129
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa17f740a7fa042adcbd14d45a5615
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionCenter0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f48d8ef37cc94c9db650082c87021
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionHorizontal0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86240ddeb685954c8f4853df21ef380
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionRight0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee0ff0e807e2c4091bfaaad7d38840
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionVertical0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca65e1b5331e36b4f875d54b54cd565d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionDown0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d0f11677ba974469b42e506ed25107
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionUp0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 171
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d1b7c4ec8cfce44ad44d147e98aaff
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionLeft1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a0b57d78927347b4235b5229c2b12
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionHorizontal1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cec02f8ab3397047bd58ec556bba631
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionCenter1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc0c6d4f4a38af4dbd95d0a7d6dcfa7
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionVertical1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1129b386e8803469fbf34acaba1de2
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionDown1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ade7a4e9163d40b75498ad3f98fef
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman 3 - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac316c3f97fad4db4789623c9491dc
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionUp
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b314fd608e7de204fb1ff5149f998bcf
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionRight1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2cb14b13fe7564099975b257f50b1e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionLeft2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4e1c653dddf248a3f51cc44ed3d23
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionHorizontal2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8fed9b2af37db44b6542f6e28eb51d
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionCenter2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be0c963fa0c64429b9938d14ef9049
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionVertical2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 107
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77c05ba05b00ea47beb9a613d5a08ec
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionDown2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c291db6a47f8984f9cf3a2670fb9dbd
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionUp2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 177
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f6cf521ee34d4d90422142678411a
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionRight2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c72fbe4b87fd4cbdbecbaa052739f
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionCenter3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951df8b193340964cbff695ecc661f84
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionLeft3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 130
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36006b5d194618e4fa761aeb6bc0ed8d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionHorizontal3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 130
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60831cd16bb1a3b45a16691a1d28670c
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionVertical3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a5eb32838ebd4bbb407336315111b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionDown3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719ed81443b549a4e8573f9673740af7
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionUp3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 170
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a56130430f6fe4dbdd95a04b1aec72
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionRight3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 130
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8239625086bc9448aa55a83bfe8a32b
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e705df73f90f872418d3776bdef7f13c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ExplosionLeft0: 21300046
+      ExplosionVertical1: 21300066
+      ExplosionRight3: 21300102
+      ExplosionCenter2: 21300080
+      ExplosionHorizontal0: 21300050
+      ExplosionVertical3: 21300096
+      ExplosionCenter1: 21300064
+      ExplosionBase0: 21300018
+      BombRegular2: 21300004
+      BombWater2: 21300016
+      ExplosionDown2: 21300084
+      ExplosionHorizontal3: 21300094
+      ExplosionCenter3: 21300090
+      PowerupSpeedUp: 21300032
+      PowerupSpikeBomb: 21300044
+      SNES - Super Bomberman 3 - Miscellaneous_0: 21300070
+      ExplosionCenter0: 21300048
+      ExplosionBase4: 21300026
+      ExplosionVertical2: 21300082
+      BombPenetrating1: 21300008
+      ExplosionDown1: 21300068
+      BombRegular1: 21300002
+      ExplosionRight1: 21300074
+      BombWater1: 21300014
+      ExplosionUp: 21300072
+      ExplosionLeft2: 21300076
+      ExplosionRight2: 21300088
+      ExplosionHorizontal1: 21300062
+      ExplosionDown0: 21300056
+      ExplosionBase5: 21300028
+      ExplosionRight0: 21300052
+      PowerupSpeedDown: 21300034
+      ExplosionUp0: 21300058
+      PowerupWaterBomb: 21300042
+      ExplosionBase1: 21300020
+      ExplosionUp3: 21300100
+      ExplosionLeft3: 21300092
+      ExplosionBase3: 21300024
+      ExplosionUp2: 21300086
+      ExplosionBase6: 21300030
+      PowerupBomb: 21300038
+      BombPenetrating0: 21300006
+      PowerupKick: 21300040
+      PowerupFire: 21300036
+      ExplosionHorizontal2: 21300078
+      BombRegular0: 21300000
+      BombWater0: 21300012
+      ExplosionDown3: 21300098
+      ExplosionBase2: 21300022
+      ExplosionVertical0: 21300054
+      ExplosionLeft1: 21300060
+      BombPenetrating2: 21300010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 94701b927e71b0a4fae272e73da01a1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ExplosionCenter: {fileID: 3614642499031119733, guid: 70d26ab0bdd4faa43a37f083d09343ed,
+      type: 3}
+  - ExplosionVertical: {fileID: 1860288580561467418, guid: 4af06f40ac0dce34b8b9439e986bac71,
+      type: 3}
+  - ExplosionHorizontal: {fileID: 2218649553032905078, guid: ea60b6415b6cd9c4a8608e5983abdf07,
+      type: 3}
+  - ExplosionUp: {fileID: 8705318505206956829, guid: 71b6ff56b5001094bbff7b51874d4e1a,
+      type: 3}
+  - ExplosionRight: {fileID: 8757681830415288230, guid: b6ef48d89465a774ab70fc4a881f9032,
+      type: 3}
+  - ExplosionDown: {fileID: 3580264882099644943, guid: 6b40842a03132324d8be3e0b1de40a21,
+      type: 3}
+  - ExplosionLeft: {fileID: 8864769616110724229, guid: 18f0abd99fd847d4a9820ac4fb5951ac,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

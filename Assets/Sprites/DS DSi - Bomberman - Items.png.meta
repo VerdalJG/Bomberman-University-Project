@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 8ef74a693b72e364a9ac3c45c3d7c8e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FireUp
+  - first:
+      213: 21300002
+    second: DS DSi - Bomberman - Items_1
+  - first:
+      213: 21300004
+    second: FireDown
+  - first:
+      213: 21300006
+    second: SpeedUp
+  - first:
+      213: 21300008
+    second: SpeedDown
+  - first:
+      213: 21300010
+    second: BombUp
+  - first:
+      213: 21300012
+    second: BombDown
+  - first:
+      213: 21300014
+    second: DS DSi - Bomberman - Items_7
+  - first:
+      213: 21300016
+    second: PenetratingBomb
+  - first:
+      213: 21300018
+    second: DS DSi - Bomberman - Items_9
+  - first:
+      213: 21300020
+    second: DS DSi - Bomberman - Items_10
+  - first:
+      213: 21300022
+    second: DS DSi - Bomberman - Items_11
+  - first:
+      213: 21300024
+    second: DS DSi - Bomberman - Items_12
+  - first:
+      213: 21300026
+    second: BombKick
+  - first:
+      213: 21300028
+    second: DS DSi - Bomberman - Items_14
+  - first:
+      213: 21300030
+    second: DS DSi - Bomberman - Items_15
+  - first:
+      213: 21300032
+    second: DS DSi - Bomberman - Items_16
+  - first:
+      213: 21300034
+    second: Shield
+  - first:
+      213: 21300036
+    second: DS DSi - Bomberman - Items_18
+  - first:
+      213: 21300038
+    second: DS DSi - Bomberman - Items_19
+  - first:
+      213: 21300040
+    second: DS DSi - Bomberman - Items_20
+  - first:
+      213: 21300042
+    second: DS DSi - Bomberman - Items_21
+  - first:
+      213: 21300044
+    second: DS DSi - Bomberman - Items_22
+  - first:
+      213: 21300046
+    second: DS DSi - Bomberman - Items_23
+  - first:
+      213: 21300048
+    second: DS DSi - Bomberman - Items_24
+  - first:
+      213: 21300050
+    second: DS DSi - Bomberman - Items_25
+  - first:
+      213: 21300052
+    second: DS DSi - Bomberman - Items_26
+  - first:
+      213: 21300054
+    second: DS DSi - Bomberman - Items_27
+  - first:
+      213: 21300056
+    second: DS DSi - Bomberman - Items_28
+  - first:
+      213: 21300058
+    second: DS DSi - Bomberman - Items_29
+  - first:
+      213: 21300060
+    second: DS DSi - Bomberman - Items_30
+  - first:
+      213: 21300062
+    second: DS DSi - Bomberman - Items_31
+  - first:
+      213: 21300064
+    second: DS DSi - Bomberman - Items_32
+  - first:
+      213: 21300066
+    second: DS DSi - Bomberman - Items_33
+  - first:
+      213: 21300068
+    second: DS DSi - Bomberman - Items_34
+  - first:
+      213: 21300070
+    second: DS DSi - Bomberman - Items_35
+  - first:
+      213: 21300072
+    second: DS DSi - Bomberman - Items_36
+  - first:
+      213: 21300074
+    second: DS DSi - Bomberman - Items_37
+  - first:
+      213: 21300076
+    second: DS DSi - Bomberman - Items_38
+  - first:
+      213: 21300078
+    second: DS DSi - Bomberman - Items_39
+  - first:
+      213: 21300080
+    second: DS DSi - Bomberman - Items_40
+  - first:
+      213: 21300082
+    second: DS DSi - Bomberman - Items_41
+  - first:
+      213: 21300084
+    second: DS DSi - Bomberman - Items_42
+  - first:
+      213: 21300086
+    second: DS DSi - Bomberman - Items_43
+  - first:
+      213: 21300088
+    second: DS DSi - Bomberman - Items_44
+  - first:
+      213: 21300090
+    second: DS DSi - Bomberman - Items_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireUp
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cd92a16c0c70842bbcadc66871ca3b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc596858c1f274cb7eccbfafab25dd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDown
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45430d0bb8758d3468f71e7a11fc1210
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedUp
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6f44b3d94c57641877fdc1dc161125
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedDown
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0aed53572082e4e8b2e14819ac9990
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombUp
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab6791fa13409c499f45e2e2f606318
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombDown
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9025cb745ae6c44aec49a3a132332d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8242c5d69648409871182a6a5d39d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PenetratingBomb
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbea7d10f8f9c64aa9d49596e1d4198
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09e283464c900c4fb396286e05fe643
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d8f05eb30d70a4a90fda6d8aded8d4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4016fef1ee254a14986a166e601d5faf
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266dc3382ff4e1b40af14e512d743425
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombKick
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbf5b31d952b3340b037de485377124
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4848067b3758824aa469bd9314e2369
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685bc448af19a440ab69296329ca58e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c295e9c70f0fe949aab969b4b4de156
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c1c2392c095f14db7a34d6727b3cd7
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf3f9904a3e334d93b7801a928afbb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba0b99029dd9842b3becf39ad42a1e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b494439838f642800933642babb8c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15935030271375544ad504f5b5247790
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 166
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bea29436ca1034e9e3aa5e2979210c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 166
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1d19bceb74394487b7a01f21be217
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 166
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573121c99fba4594b885b813a9077853
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a67496c7a4bb46b76cf36466ebbf4
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b621d11b3619fe9448b857b76f8b6f03
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 166
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f227bd55b15ab24484ddbf61b4a7e5c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 166
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af69bbabb85ecf41a1e55b3fab1f41f
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 166
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac708a9eea5cabd49a8c4f14b13cdca3
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 166
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfcf7fb81e2e4444a5ba93ae57534af
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 166
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62437adabcc4b047b17a185dd7950d8
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70607fde9d559e746a0ccc3fcd1880c0
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 166
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff2f63d0cb8a96408868f11e208bfff
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb07972b4983784da81933d1e0aa9e7
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 166
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231667deea009204f9a8aa888def5ef1
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 166
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6cc07a89a9f004c8725f8c89a60707
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e73360bd0565c4db17d50b35a0fdce
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a40428993fa7249a862ac8b544ca1c
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742e64f48511924ba7c170412cee624
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa5c09f0e8dd2b448d4177dc5efce57
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e8cf515976e144b4a43fb96b6a6eb
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d921b91c421746a08af2f5e35aa2f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adeb26d9041cd44fb983f821f53a4a8
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c80c62fae28f4ba499f4d5c3d48f7
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bomberman - Items_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6457b8a4a5eda8944957ab9ef224634c
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd801faef9059f44dbd2dd2cf3b147e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Bomberman - Items_22: 21300044
+      DS DSi - Bomberman - Items_29: 21300058
+      DS DSi - Bomberman - Items_7: 21300014
+      DS DSi - Bomberman - Items_20: 21300040
+      DS DSi - Bomberman - Items_34: 21300068
+      DS DSi - Bomberman - Items_30: 21300060
+      DS DSi - Bomberman - Items_25: 21300050
+      DS DSi - Bomberman - Items_10: 21300020
+      DS DSi - Bomberman - Items_38: 21300076
+      DS DSi - Bomberman - Items_45: 21300090
+      DS DSi - Bomberman - Items_15: 21300030
+      DS DSi - Bomberman - Items_40: 21300080
+      BombUp: 21300010
+      DS DSi - Bomberman - Items_35: 21300070
+      DS DSi - Bomberman - Items_12: 21300024
+      DS DSi - Bomberman - Items_31: 21300062
+      DS DSi - Bomberman - Items_23: 21300046
+      DS DSi - Bomberman - Items_28: 21300056
+      FireDown: 21300004
+      DS DSi - Bomberman - Items_9: 21300018
+      DS DSi - Bomberman - Items_42: 21300084
+      DS DSi - Bomberman - Items_43: 21300086
+      BombDown: 21300012
+      DS DSi - Bomberman - Items_37: 21300074
+      DS DSi - Bomberman - Items_24: 21300048
+      DS DSi - Bomberman - Items_16: 21300032
+      SpeedDown: 21300008
+      DS DSi - Bomberman - Items_1: 21300002
+      DS DSi - Bomberman - Items_26: 21300052
+      DS DSi - Bomberman - Items_39: 21300078
+      DS DSi - Bomberman - Items_11: 21300022
+      DS DSi - Bomberman - Items_19: 21300038
+      DS DSi - Bomberman - Items_41: 21300082
+      FireUp: 21300000
+      DS DSi - Bomberman - Items_27: 21300054
+      PenetratingBomb: 21300016
+      DS DSi - Bomberman - Items_18: 21300036
+      Shield: 21300034
+      DS DSi - Bomberman - Items_44: 21300088
+      DS DSi - Bomberman - Items_33: 21300066
+      DS DSi - Bomberman - Items_14: 21300028
+      DS DSi - Bomberman - Items_21: 21300042
+      SpeedUp: 21300006
+      DS DSi - Bomberman - Items_36: 21300072
+      BombKick: 21300026
+      DS DSi - Bomberman - Items_32: 21300064
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

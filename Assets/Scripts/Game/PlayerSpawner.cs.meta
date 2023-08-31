@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 015b5f163e98b5047b95e22f7e4fe7d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - whiteGame: {fileID: 6920908414829652509, guid: 4dac659bf7260814f972ef49031df0f1,
+      type: 3}
+  - blackGame: {fileID: 8660037709227421377, guid: 4de26061137df9740a22af649395d510,
+      type: 3}
+  - redGame: {fileID: 3615673380707284050, guid: 3a977fcb073e9d7488733ab0b65aa1d3,
+      type: 3}
+  - blueGame: {fileID: 8254622316767076708, guid: 24dc2992c5f658447b46ae2c4ae803fe,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
