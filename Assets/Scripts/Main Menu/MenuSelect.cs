@@ -7,8 +7,8 @@ public class MenuSelect : MonoBehaviour
     [SerializeField] private GameObject MenuSelector;
 
     //Reference to different menu option positions
-    private Vector3 menuPosition1 = new Vector3 (-3, -1.1f, 0);
-    private Vector3 menuPosition2 = new Vector3 (-3, -2, 0);
+    private Vector3 menuPosition1 = new Vector3 (-3, -1.55f, 0);
+    private Vector3 menuPosition2 = new Vector3 (-3, -2.3f, 0);
     private Vector3 menuPosition3 = new Vector3 (-3, -2.9f, 0);
 
     //Reference to the option currently hovered

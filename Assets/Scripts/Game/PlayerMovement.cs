@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     //Variables for powerups
     static public int fireNumber = 2;
-    private int speedNumber = 5;
+    private int speed = 5;
     static public int maxBombCount = 1;
     static public int currentBombCount = 0;
 
@@ -48,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
             //Convert Input into vector
             Vector2 playerInput = new Vector2(playerHorizontal, playerVertical);
             //Multiply vector by speed to get velocity
-            playerVelocity = playerInput.normalized * speedNumber;
+            playerVelocity = playerInput.normalized * speed;
             //Move player according to velocity
             playerRB.MovePosition(playerRB.position + playerVelocity * Time.fixedDeltaTime);
             if (playerHorizontal == 1 & playerVertical == 0)
